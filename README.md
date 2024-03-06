@@ -1,2 +1,3 @@
 # android-playground
-Playground for Android development with Kotlin
+
+Playground for Android development with Kotlin. 
